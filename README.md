@@ -12,7 +12,7 @@ Participantes do trabalho:
 # Github
 Esse é o local onde se encontra todos os arquivos do trabalho integrado.
 
-## TI_BTLT
+## Trabalho_Integrado_BD1
 Nome do repositório que se encontra todos os arquivos do trabalho.
 
 ## Scriptss.sql
